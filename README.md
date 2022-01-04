@@ -1,8 +1,10 @@
-### Hi there 👋
-- 🔭 I’m currently working on `studying`
-- 🌱 I’m currently learning `python`
-- 💬 Ask me about `python` `HTML` and `CSS`
-- 📫 How to reach me: `email:`yinloong@163.com
+<h1 align='center'>
+  Hi there 👋 I'm YinLoong 👨‍💻
+</h1>
+<p align='center'>a university student from China.</p>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Yin-Loong&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+<p align='center'>
+  📫 How to reach me: <a href='mailto:yin_loong@163.com'>yin_loong@163.com</a>
 </p>
